@@ -50,5 +50,3 @@ void computeTimeDifference(struct TIME t1, struct TIME t2, struct TIME *differen
     difference->minutes = t1.minutes-t2.minutes;
     difference->hours = t1.hours-t2.hours;
 }
-Output
-Enter hours, minutes and seconds
